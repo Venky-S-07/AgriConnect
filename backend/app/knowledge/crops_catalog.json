@@ -1,0 +1,130 @@
+[
+  {
+    "crop_id": "tomato",
+    "name_en": "Tomato",
+    "name_kn": "ಟೊಮೆಟೊ",
+    "typical_duration_days": 120,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Sowing / Nursery", "label_kn": "ಬಿತ್ತನೆ / ಸಸಿಮಡಿ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Vegetative Growth", "label_kn": "ಸಸ್ಯ ಬೆಳವಣಿಗೆ"},
+      {"stage_id": "FLOWERING", "label_en": "Flowering", "label_kn": "ಹೂವಾಡುವಿಕೆ"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Fruit Setting", "label_kn": "ಕಾಯಿ ಕಟ್ಟುವುದು"},
+      {"stage_id": "RIPENING", "label_en": "Ripening / Harvest", "label_kn": "ಪಕ್ವತೆ / ಕೊಯ್ಲು"}
+    ]
+  },
+  {
+    "crop_id": "ragi",
+    "name_en": "Finger Millet (Ragi)",
+    "name_kn": "ರಾಗಿ",
+    "typical_duration_days": 110,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Sowing", "label_kn": "ಬಿತ್ತನೆ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Tillering & Vegetative", "label_kn": "ಪಿಳ್ಳೆ ಒಡೆಯುವಿಕೆ"},
+      {"stage_id": "FLOWERING", "label_en": "Flowering / Heading", "label_kn": "ತೆನೆ ಬರುವುದು"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Grain Filling", "label_kn": "ಕಾಳು ತುಂಬುವಿಕೆ"},
+      {"stage_id": "RIPENING", "label_en": "Maturity / Harvest", "label_kn": "ಕೊಯ್ಲು"}
+    ]
+  },
+  {
+    "crop_id": "maize",
+    "name_en": "Maize (Corn)",
+    "name_kn": "ಮೆಕ್ಕೆಜೋಳ",
+    "typical_duration_days": 105,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Sowing / Germination", "label_kn": "ಬಿತ್ತನೆ / ಮೊಳಕೆಯೊಡೆಯುವಿಕೆ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Knee-high & Tasseling", "label_kn": "ಸಸ್ಯ ಬೆಳವಣಿಗೆ / ತೆನೆ ಹಂತ"},
+      {"stage_id": "FLOWERING", "label_en": "Silking & Pollination", "label_kn": "ರೇಷ್ಮೆ ಎಳೆ / ಪರಾಗಸ್ಪರ್ಶ"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Milking & Dough Stage", "label_kn": "ಹಾಲು ತುಂಬುವ / ಕಾಳು ಗಟ್ಟಿಯಾಗುವ ಹಂತ"},
+      {"stage_id": "RIPENING", "label_en": "Maturity / Harvest", "label_kn": "ಪಕ್ವತೆ / ಕೊಯ್ಲು"}
+    ]
+  },
+  {
+    "crop_id": "paddy",
+    "name_en": "Paddy (Rice)",
+    "name_kn": "ಭತ್ತ",
+    "typical_duration_days": 135,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Nursery / Transplanting", "label_kn": "ಸಸಿಮಡಿ / ನಾಟಿ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Tillering Stage", "label_kn": "ಪಿಳ್ಳೆ ಒಡೆಯುವ ಹಂತ"},
+      {"stage_id": "FLOWERING", "label_en": "Panicle Initiation & Flowering", "label_kn": "ತೆನೆ ಮೂಡುವಿಕೆ / ಹೂವಾಡುವಿಕೆ"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Grain Filling", "label_kn": "ಕಾಳು ತುಂಬುವ ಹಂತ"},
+      {"stage_id": "RIPENING", "label_en": "Harvesting", "label_kn": "ಕೊಯ್ಲು"}
+    ]
+  },
+  {
+    "crop_id": "groundnut",
+    "name_en": "Groundnut (Peanut)",
+    "name_kn": "ಕಡಲೆಕಾಯಿ",
+    "typical_duration_days": 115,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Sowing & Emergence", "label_kn": "ಬಿತ್ತನೆ / ಮೊಳಕೆ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Vegetative Growth", "label_kn": "ಸಸ್ಯ ಬೆಳವಣಿಗೆ"},
+      {"stage_id": "FLOWERING", "label_en": "Flowering & Pegging", "label_kn": "ಹೂವಾಡುವಿಕೆ / ಊಡು ಬಿಡುವುದು"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Pod Development", "label_kn": "ಕಾಯಿ ಕಟ್ಟುವುದು"},
+      {"stage_id": "RIPENING", "label_en": "Maturity / Harvesting", "label_kn": "ಪಕ್ವತೆ / ಕೀಳುವುದು"}
+    ]
+  },
+  {
+    "crop_id": "cotton",
+    "name_en": "Cotton",
+    "name_kn": "ಹತ್ತಿ",
+    "typical_duration_days": 160,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Sowing & Seedling", "label_kn": "ಬಿತ್ತನೆ / ಸಸಿ ಹಂತ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Square Formation", "label_kn": "ಮೊಗ್ಗು ಬಿಡುವ ಹಂತ"},
+      {"stage_id": "FLOWERING", "label_en": "Flowering & Boll Development", "label_kn": "ಹೂವಾಡುವಿಕೆ / ಕಾಯಿ ಬೆಳೆಯುವಿಕೆ"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Boll Maturation", "label_kn": "ಬೋಲ್ ಪಕ್ವವಾಗುವ ಹಂತ"},
+      {"stage_id": "RIPENING", "label_en": "Boll Opening & Picking", "label_kn": "ಹತ್ತಿ ಬಿರಿಯುವುದು / ಬಿಡಿಸುವುದು"}
+    ]
+  },
+  {
+    "crop_id": "onion",
+    "name_en": "Onion",
+    "name_kn": "ಈರುಳ್ಳಿ",
+    "typical_duration_days": 125,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Nursery / Transplanting", "label_kn": "ಸಸಿಮಡಿ / ನಾಟಿ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Vegetative & Leaf Growth", "label_kn": "ಸೊಪ್ಪು ಬೆಳವಣಿಗೆ"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Bulb Initiation & Development", "label_kn": "ಗಡ್ಡೆ ಕಟ್ಟುವ ಹಂತ"},
+      {"stage_id": "RIPENING", "label_en": "Neck Fall & Harvesting", "label_kn": "ಸೊಪ್ಪು ಬಾಗುವುದು / ಕೀಳುವುದು"}
+    ]
+  },
+  {
+    "crop_id": "wheat",
+    "name_en": "Wheat",
+    "name_kn": "ಗೋಧಿ",
+    "typical_duration_days": 120,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Crown Root & Tillering", "label_kn": "ಬಿತ್ತನೆ / ಬೇರು ಮತ್ತು ಪಿಳ್ಳೆ ಹಂತ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Jointing & Booting", "label_kn": "ಕಣ್ಮುಟ್ಟುವಿಕೆ / ಬಸಿರು ಹಂತ"},
+      {"stage_id": "FLOWERING", "label_en": "Heading & Anthesis", "label_kn": "ತೆನೆ ಬರುವುದು / ಹೂವಾಡುವಿಕೆ"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Milk & Dough Stage", "label_kn": "ಹಾಲು / ಹಿಟ್ಟು ತುಂಬುವ ಹಂತ"},
+      {"stage_id": "RIPENING", "label_en": "Harvesting", "label_kn": "ಕೊಯ್ಲು"}
+    ]
+  },
+  {
+    "crop_id": "bengal_gram",
+    "name_en": "Bengal Gram (Chickpea)",
+    "name_kn": "ಕಡಲೆ",
+    "typical_duration_days": 100,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Sowing & Seedling", "label_kn": "ಬಿತ್ತನೆ / ಮೊಳಕೆ"},
+      {"stage_id": "VEGETATIVE", "label_en": "Branching & Vegetative", "label_kn": "ರೆಂಬೆ ಒಡೆಯುವುದು"},
+      {"stage_id": "FLOWERING", "label_en": "Flowering & Pod Setting", "label_kn": "ಹೂವಾಡುವಿಕೆ / ಕಾಯಿ ಕಟ್ಟುವುದು"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Pod Filling", "label_kn": "ಕಾಳು ಬೆಳೆಯುವುದು"},
+      {"stage_id": "RIPENING", "label_en": "Maturity / Harvest", "label_kn": "ಕೊಯ್ಲು"}
+    ]
+  },
+  {
+    "crop_id": "sugarcane",
+    "name_en": "Sugarcane",
+    "name_kn": "ಕಬ್ಬು",
+    "typical_duration_days": 365,
+    "stages": [
+      {"stage_id": "SOWING", "label_en": "Germination / Sprouting", "label_kn": "ನಾಟಿ / ಮೊಳಕೆಯೊಡೆಯುವುದು"},
+      {"stage_id": "VEGETATIVE", "label_en": "Tillering & Formative", "label_kn": "ಪಿಳ್ಳೆ ಹಂತ / ಬೆಳವಣಿಗೆ"},
+      {"stage_id": "YIELD_FORMATION", "label_en": "Grand Growth & Cane Elongation", "label_kn": "ಕಬ್ಬು ಉದ್ದ ಬೆಳೆಯುವ ಹಂತ"},
+      {"stage_id": "RIPENING", "label_en": "Maturity & Harvesting", "label_kn": "ಸಿಹಿ ತುಂಬುವಿಕೆ / ಕಟಾವು"}
+    ]
+  }
+]
